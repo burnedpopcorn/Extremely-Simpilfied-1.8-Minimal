@@ -1,6 +1,6 @@
 # Extremely Simplified 1.8 v1.2.2 (Minimal)
 
-![alt text](https://github.com/burnedpopcorn/Extremely-Simpifed-1.8-Minimal/blob/main/pack.png?raw=true)
+![alt text](https://github.com/burnedpopcorn/Extremely-Simpified-1.8-Minimal/blob/main/pack.png?raw=true)
 
 This is a resouce/texture pack that simplifies all textures for Minecraft 1.8 - 1.8.9 that removes most useless particles, effects, and some useless block textures (i.e. Grass) in attempt to further optimize the web client EaglerCraft
 - My own EaglerCraft Client hosting website can be found here: https://burnedpopcorn.github.io/Client_Select.html
